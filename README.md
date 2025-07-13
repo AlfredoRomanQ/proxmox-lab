@@ -28,7 +28,6 @@ Este repositorio documenta mi experiencia personal al montar un entorno de labor
 
 Aunque fue un laboratorio personal, apliqué medidas básicas de seguridad:
 
-- Desactivé el acceso SSH para root
 - Activé solo autenticación por clave pública
 - Cambié el puerto por defecto del servicio SSH
 - Escribí un script sencillo para iptables que:
