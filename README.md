@@ -10,6 +10,7 @@ Este repositorio documenta mi experiencia personal al montar un entorno de labor
 - Creación de:
   - 🪟 Máquina virtual con **Windows** (accesible por RDP)
   - 🐧 Servidor **Debian** para alojar Wiki.js y la base de datos PostgreSQL
+  - Configuración de un Daemon básico para que wiki.js se inice automáticamente.
 - Securización del servidor:
   - Configuración del servicio **SSH** (puerto personalizado, autenticación por clave, desactivación de acceso root)
   - Reglas básicas con **iptables**
